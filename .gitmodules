@@ -1,0 +1,3 @@
+[submodule "airtime-balance"]
+	path = airtime-balance
+	url = https://github.com/Crea2ive/airtime-balance.git
